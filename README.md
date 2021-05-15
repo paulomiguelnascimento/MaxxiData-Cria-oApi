@@ -1,6 +1,7 @@
 # Criação da API
 
 ##CRIAR O ARQUIVO PACKAGE
+
 NPM INIT
 
 ##Gerencia as requisições, rotas e urls  entre outras funcionalidades
